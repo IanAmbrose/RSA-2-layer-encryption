@@ -33,6 +33,8 @@ p2 = Person("Becky", "talkative", True)
 
 p1.robot_owned = r2
 p2.robot_owned = r1
+
+print("This is a test")
 #p1 owns r2
 
 p1.robot_owned.introduceSelf()
