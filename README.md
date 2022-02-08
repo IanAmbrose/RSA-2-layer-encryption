@@ -1,9 +1,5 @@
 # 2 Keypair rsa_encryption 
 
-Preinstalled Keys - For key display functionality without encoding a new message.<br  />
-New keys generated when a new message is decoded.
-
-
 ## Imported Modules :<br  />
 from Crypto.PublicKey import RSA<br  />
 from Crypto.Random import get_random_bytes<br  />
