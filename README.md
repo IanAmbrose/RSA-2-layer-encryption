@@ -3,7 +3,7 @@
 ## Imported Modules :<br  />
 from Crypto.PublicKey import RSA<br  />
 from Crypto.Random import get_random_bytes<br  />
-from Crypto.Cipher import AES, PKCS1_OAEP<br  /
+from Crypto.Cipher import AES, PKCS1_OAEP<br  />
 
 # Documentation
 ![img1](https://user-images.githubusercontent.com/74079455/153038684-644be5e7-3e8e-4f52-902c-d74ff0330c71.png)
